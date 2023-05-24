@@ -1,38 +1,8 @@
-# Depto de Sistemas y Computación
-# Ing. En Sistemas Computacionales
-# SISTEMAS PROGRAMABLES 23a
 
 
-# OBJETIVO:
+#INTEGRANTES:
 
-
-# CÓDIGO
-```python
-## Depto de Sistemas y Computación
-## Ing. En Sistemas Computacionales
-## SISTEMAS PROGRAMABLES 23a
-## Autor (es): ___________
-## Repositorio:  
-## Fecha de revisión:   99/99/2023
-## Objetivo:
-##   
-
-## TODO: (pendientes sin resolver)
-##
-##
-## In Progress: (resueltos parcialmente)
-##
-##
-## Complete:  (Ya terminado), borrar estos mensajes.
-##
-##
-```
-
-# PRUEBAS
-
-![](https://www.snapon.co.za/images/thumbs/default-image_550.png)
-
-![](https://www.snapon.co.za/images/thumbs/default-image_550.png)
+<a href="https://ibb.co/wpFDkqd"><img src="https://i.ibb.co/6D76MSy/pico-w-2022.jpg" alt="pico-w-2022" border="0"></a>
 
 # CONCLUSIONES
 _esta es conclusión_
