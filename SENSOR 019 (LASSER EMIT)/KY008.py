@@ -1,3 +1,5 @@
+# JOnathan Lara Segovia #19210515
+
 from machine import Pin
 import time
 
