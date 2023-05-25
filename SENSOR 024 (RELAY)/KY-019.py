@@ -1,12 +1,14 @@
+# Jonathan Lara segovia 
 import machine
-import utime
+import time
 
-relay_pin = machine.Pin(0, machine.Pin.OUT)
+relay_pin = machine.Pin(7, machine.Pin.OUT)  # Configura el pin del relé como salida
 
-relay_pin.value(1)
-
-relay_pin.value(0)
-
-relay_pin.value(1)  # Activa el relé
-utime.sleep(2)     # Espera 2 segundos
-relay_pin.value(0)  # Desactiva el relé
+while True:
+    relay_pin.on()  # Enciende el relé
+    print("Relé encendido")
+    time.sleep(1)  # Espera 1 segundo
+    
+    relay_pin.off()  # Apaga el relé
+    print("Relé apagado")
+    time.sleep(1)  # Espera 1 segundo
