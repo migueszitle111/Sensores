@@ -1,0 +1,19 @@
+#Jonathan Lara Segovia 
+
+import machine
+import time
+
+adc_pin = machine.ADC(26)
+
+while True:
+    # Leer el valor analógico del sensor
+    sensor_value = adc_pin.read_u16()
+    
+    # Convertir el valor a voltaje (opcional)
+    voltage = (sensor_value / 65535) * 3.3
+    
+    # Imprimir el valor y el voltaje
+    print("Valor: ", sensor_value)
+    print("Voltaje: ", voltage)
+    
+    time.sleep(1)
