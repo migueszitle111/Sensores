@@ -1,4 +1,3 @@
-<a href="https://ibb.co/wpFDkqd"><img src="https://github.com/JesusEstrad4/Sensores_Pico_W/blob/main/Imagenes_presentacion/logo.jpg?raw=true" alt="pico-w-2022" border="0"></a>
 
 # INTEGRANTES:
 - Jonathan Lara
