@@ -1,0 +1,14 @@
+#Jonathan Lara Segovia
+import machine
+import utime
+
+buzzer_pin = machine.Pin(X, machine.Pin.OUT)
+
+def play_buzzer():
+    buzzer_pin.on()
+    utime.sleep_ms(500)
+    buzzer_pin.off()
+    utime.sleep_ms(500)
+
+while True:
+    play_buzzer()
