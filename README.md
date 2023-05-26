@@ -14,18 +14,11 @@
 - Maria Guadalupe Gantes
 # Repositorio:  https://github.com/migueszitle111/Sensores
 # Fecha de revisión:   
-# Objetivo:
+# Objetivo: AVANCE 3/3
 #   
 
-# TODO: (pendientes sin resolver)
-#
-#
-# In Progress: (resueltos parcialmente)
-#
-#
-# Complete:  (Ya terminado), borrar estos mensajes.
-#
-#
+
+
 ```
 
 
