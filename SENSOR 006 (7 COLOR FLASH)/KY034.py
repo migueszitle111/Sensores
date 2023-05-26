@@ -1,13 +1,10 @@
 #JOnathan Lara Segovia 
 import machine
 
-sensor_pin = machine.Pin(7, machine.Pin.IN)
-
-def detect_line():
-    return sensor_pin.value()
+sensor_pin = machine.Pin(2, machine.Pin.IN)  # Pin GP2
 
 while True:
-    if detect_line():
+    if sensor_pin.value() == 0:
         print("Línea detectada")
     else:
         print("No se detecta línea")
