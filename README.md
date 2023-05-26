@@ -33,4 +33,4 @@
 <a href="https://ibb.co/wpFDkqd"><img src="https://github.com/tectijuana/sensores/raw/master/imagenes/2.jpg" alt="pico-w-2022" border="0"></a>
 
 # CONCLUSIONES
-_esta es conclusión_
+El repositorio "Sensores" es una valiosa fuente de recursos para aquellos que deseen utilizar sensores con la Raspberry Pi Pico W. Proporciona un punto de partida sólido, con código y documentación, que facilita la integración de diferentes sensores en proyectos, permitiendo a los usuarios explorar y aprovechar al máximo las capacidades de la Raspberry Pi Pico W en combinación con una amplia gama de sensores.
