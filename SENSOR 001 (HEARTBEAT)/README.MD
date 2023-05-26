@@ -1,4 +1,4 @@
-# KY-039 Heartbeat Sensor
+# KY-039 Heartbeat Sensor <img src="logo.jfif" alt="diagrama" width="200"/>
 
 El KY-039 Heartbeat Sensor es un módulo utilizado para medir la frecuencia cardíaca a través de la detección de pulsos sanguíneos. Es ampliamente utilizado en proyectos de monitoreo de salud y aplicaciones relacionadas con la frecuencia cardíaca.
 
